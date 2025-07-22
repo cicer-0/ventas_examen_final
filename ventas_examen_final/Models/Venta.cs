@@ -1,4 +1,6 @@
-﻿namespace ventas_examen_final.Models
+﻿using System.Text.Json.Serialization;
+
+namespace ventas_examen_final.Models
 {
     public class Venta
     {

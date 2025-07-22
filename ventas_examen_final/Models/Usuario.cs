@@ -1,4 +1,6 @@
-﻿namespace ventas_examen_final.Models
+﻿using System.Text.Json.Serialization;
+
+namespace ventas_examen_final.Models
 {
     public class Usuario
     {
@@ -9,6 +11,7 @@
         public DateTime FechaRegistro { get; set; }
 
         // Relación uno a muchos con Venta
+        [JsonIgnore]
         public ICollection<Venta> Ventas { get; set; }
     }
 }

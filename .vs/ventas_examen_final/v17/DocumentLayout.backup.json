@@ -3,36 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\controllers\\detalleventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\controllers\\detalleventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|c:\\users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561A982-3FE5-4739-8BCA-1816AE661486}|ventas_examen_final\\ventas_examen_final.csproj|solutionrelative:ventas_examen_final\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,105 +58,163 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ventas_examen_final\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ventas_examen_final\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:19:50.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "ventas_examen_final\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "ventas_examen_final\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:20:28.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalleVentasController.cs",
+              "DocumentMoniker": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Controllers\\DetalleVentasController.cs",
+              "RelativeDocumentMoniker": "ventas_examen_final\\Controllers\\DetalleVentasController.cs",
+              "ToolTip": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Controllers\\DetalleVentasController.cs",
+              "RelativeToolTip": "ventas_examen_final\\Controllers\\DetalleVentasController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAqwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:20:00.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ventas_examen_final\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Models\\Usuario.cs",
+              "RelativeToolTip": "ventas_examen_final\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:07:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Program.cs",
               "RelativeDocumentMoniker": "ventas_examen_final\\Program.cs",
               "ToolTip": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Program.cs",
               "RelativeToolTip": "ventas_examen_final\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-20T19:04:19.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DetalleVenta.cs",
-              "DocumentMoniker": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Models\\DetalleVenta.cs",
-              "RelativeDocumentMoniker": "ventas_examen_final\\Models\\DetalleVenta.cs",
-              "ToolTip": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Models\\DetalleVenta.cs",
-              "RelativeToolTip": "ventas_examen_final\\Models\\DetalleVenta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T19:09:20.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Venta.cs",
               "DocumentMoniker": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Models\\Venta.cs",
               "RelativeDocumentMoniker": "ventas_examen_final\\Models\\Venta.cs",
               "ToolTip": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Models\\Venta.cs",
               "RelativeToolTip": "ventas_examen_final\\Models\\Venta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T19:08:52.689Z"
+              "WhenOpened": "2025-07-20T19:08:52.689Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ventas_examen_final\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ventas_examen_final\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAqwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:20:10.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Models\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "ventas_examen_final\\Models\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Models\\DetalleVenta.cs",
+              "RelativeToolTip": "ventas_examen_final\\Models\\DetalleVenta.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:09:20.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "ventas_examen_final\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "ventas_examen_final\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:12:37.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ventas_examen_final\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "ventas_examen_final\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-20T19:00:34.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "ventas_examen_final\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "ventas_examen_final\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T19:12:37.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "ventas_examen_final\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Models\\Categoria.cs",
-              "RelativeToolTip": "ventas_examen_final\\Models\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T19:08:20.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "ventas_examen_final\\Models\\Producto.cs",
               "ToolTip": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Models\\Producto.cs",
               "RelativeToolTip": "ventas_examen_final\\Models\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T19:07:55.366Z"
+              "WhenOpened": "2025-07-20T19:07:55.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "ventas_examen_final\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Models\\Usuario.cs",
-              "RelativeToolTip": "ventas_examen_final\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ventas_examen_final\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\cico\\source\\repos\\ventas_examen_final\\ventas_examen_final\\Models\\Categoria.cs",
+              "RelativeToolTip": "ventas_examen_final\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T19:07:28.291Z"
+              "WhenOpened": "2025-07-20T19:08:20.077Z",
+              "EditorCaption": ""
             }
           ]
         }

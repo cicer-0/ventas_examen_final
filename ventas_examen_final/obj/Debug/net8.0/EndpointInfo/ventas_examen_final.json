@@ -982,13 +982,6 @@
           "nombre": {
             "type": "string",
             "nullable": true
-          },
-          "productos": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Producto"
-            },
-            "nullable": true
           }
         },
         "additionalProperties": false
@@ -1086,13 +1079,6 @@
           },
           "categoria": {
             "$ref": "#/components/schemas/Categoria"
-          },
-          "detallesVenta": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/DetalleVenta"
-            },
-            "nullable": true
           }
         },
         "additionalProperties": false
@@ -1145,13 +1131,6 @@
           "fechaRegistro": {
             "type": "string",
             "format": "date-time"
-          },
-          "ventas": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Venta"
-            },
-            "nullable": true
           }
         },
         "additionalProperties": false

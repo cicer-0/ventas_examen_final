@@ -1,4 +1,6 @@
-﻿namespace ventas_examen_final.Models
+﻿using System.Text.Json.Serialization;
+
+namespace ventas_examen_final.Models
 {
     public class Producto
     {
@@ -13,6 +15,7 @@
         public Categoria Categoria { get; set; }  // Relación muchos a uno con Categoria
 
         // Relación uno a muchos con DetalleVenta
+        [JsonIgnore]
         public ICollection<DetalleVenta> DetallesVenta { get; set; }
     }
 }

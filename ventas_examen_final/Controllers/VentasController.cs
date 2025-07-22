@@ -38,14 +38,23 @@ namespace ventas_examen_final.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Venta>>> GetVentas()
         {
-            return await _context.Ventas.Include(v => v.Usuario).ToListAsync();
+            return await _context.Ventas.Include(v => v.DetallesVenta)  // Incluir detalles de venta
+        .ThenInclude(dv => dv.Producto) // Incluir el producto en cada detalle de venta
+        .ThenInclude(p => p.Categoria)  // Incluir la categoría asociada al producto
+        .Include(v => v.Usuario)       // Incluir el usuario relacionado
+        .ToListAsync();
+
         }
 
         // GET: api/Ventas/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Venta>> GetVenta(int id)
         {
-            var venta = await _context.Ventas.FindAsync(id);
+            var venta = await _context.Ventas.Include(v => v.DetallesVenta)  // Incluir detalles de venta
+        .ThenInclude(dv => dv.Producto) // Incluir el producto en cada detalle de venta
+        .ThenInclude(p => p.Categoria)  // Incluir la categoría asociada al producto
+        .Include(v => v.Usuario)       // Incluir el usuario relacionado
+        .FirstOrDefaultAsync(v => v.Id == id);
 
             if (venta == null)
             {

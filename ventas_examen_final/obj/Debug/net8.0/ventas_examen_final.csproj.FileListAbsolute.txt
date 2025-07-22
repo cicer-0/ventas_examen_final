@@ -177,3 +177,4 @@ C:\Users\cico\source\repos\ventas_examen_final\ventas_examen_final\obj\Debug\net
 C:\Users\cico\source\repos\ventas_examen_final\ventas_examen_final\obj\Debug\net8.0\ventas_examen_final.genruntimeconfig.cache
 C:\Users\cico\source\repos\ventas_examen_final\ventas_examen_final\obj\Debug\net8.0\ref\ventas_examen_final.dll
 C:\Users\cico\source\repos\ventas_examen_final\ventas_examen_final\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\cico\source\repos\ventas_examen_final\ventas_examen_final\obj\Debug\net8.0\ventas_examen_final.sourcelink.json
